@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4124103483492116794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2686054561929374367, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_Name
+      value: WordManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.07999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374365, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: letters.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Dragon.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: LatterGameObject.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: hand.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Dragon.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Dragon.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Dragon.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Dragon.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: LatterGameObject.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: LatterGameObject.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: LatterGameObject.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: LatterGameObject.Array.data[3]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: LetterNumber
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: letters.Array.data[0]
+      value: "\u05D8"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: letters.Array.data[1]
+      value: "\u05D5"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: letters.Array.data[2]
+      value: "\u05D1"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: nextLevel
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life1
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life2
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: Life3
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: cameraAnimator
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: winCanvas
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: knight
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: hand
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: hand.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: lettersEnd
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2686054561929374366, guid: b9018e805f2e9714ebc0891c1420e389,
+        type: 3}
+      propertyPath: knightAnimator
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9018e805f2e9714ebc0891c1420e389, type: 3}

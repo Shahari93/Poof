@@ -1,0 +1,705 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2738900088288789521
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5976206118876440075, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_Name
+      value: LettersIdentifier 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440074, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: LineRenderers.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: LineRenderers.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: knightAnimator
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[4].Key
+      value: "\u05D4"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[4].ScorePadding
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[4].Images
+      value: "{ new ImageGestureImage(new ulong[] { 0x000000000000C000, 0x000000000000C0E0,
+        0x000000000000C0E0, 0x000000000000C0E0, 0x000000000000E0E0, 0x000000000000E0E0,
+        0x000000000000E0E0, 0x000000000000F8E0, 0x000000000000FE03, 0x000000000000FF87,
+        0x0000000000001FFF, 0x00000000000007FF, 0x00000000000001FE, 0x0000000000000000,
+        0x0000000000000000, 0x0000000000000000 }, imageWidth), \"\u05D4\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x000000000000C380, 0x000000000000C380,
+        0x000000000000C380, 0x000000000000C380, 0x000000000000C380, 0x000000000000C000,
+        0x000000000000E003, 0x000000000000E003, 0x000000000000F007, 0x000000000000FFFF,
+        0x0000000000007FFF, 0x0000000000007FFE, 0x0000000000000000, 0x0000000000000000,
+        0x0000000000000000, 0x0000000000000000 }, imageWidth), \"\u05D4\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x000000000000C0E0, 0x000000000000C0E0,
+        0x000000000000C0E0, 0x000000000000C0E0, 0x000000000000C0E0, 0x000000000000C0E0,
+        0x000000000000C0E0, 0x000000000000C000, 0x000000000000C000, 0x000000000000E000,
+        0x000000000000F000, 0x000000000000F83F, 0x0000000000007FFF, 0x0000000000003FFF,
+        0x0000000000001FF0, 0x0000000000000700 }, imageWidth), \"\u05D4\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000007800, 0x0000000000007800,
+        0x00000000000038E0, 0x00000000000038E0, 0x00000000000038E0, 0x00000000000038E0,
+        0x00000000000038E0, 0x00000000000038E0, 0x0000000000003800, 0x0000000000003803,
+        0x0000000000003803, 0x0000000000003C07, 0x0000000000003E07, 0x0000000000003F0F,
+        0x0000000000000FFF, 0x00000000000007FE }, imageWidth), \"\u05D4\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000F0E, 0x0000000000000F1E,
+        0x000000000000071E, 0x000000000000071E, 0x000000000000070E, 0x000000000000070E,
+        0x0000000000000700, 0x0000000000000780, 0x0000000000000780, 0x0000000000000380,
+        0x0000000000000383, 0x0000000000000383, 0x0000000000000387, 0x000000000000038F,
+        0x00000000000003FF, 0x00000000000003FE }, imageWidth), \"\u05D4\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x000000000000C1C0, 0x000000000000C1C0,
+        0x000000000000C1C0, 0x000000000000C1C0, 0x000000000000C1C0, 0x000000000000C000,
+        0x000000000000C000, 0x000000000000E000, 0x000000000000E003, 0x000000000000E003,
+        0x000000000000F007, 0x000000000000F00F, 0x000000000000700F, 0x000000000000781E,
+        0x0000000000007FFE, 0x0000000000003FFC }, imageWidth), \"\u05D4\" },\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[0].Key
+      value: "\u05E2"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[0].Images
+      value: "{ new ImageGestureImage(new ulong[] { 0x000000000000001F, 0x000000000000003F,
+        0x000000000000003F, 0x000000000000003F, 0x000000000000001F, 0x000000000000001F,
+        0x000000000000000F, 0x000000000000000F, 0x000000000000003F, 0x000000000000007F,
+        0x00000000000000FF, 0x00000000000001F3, 0x00000000000003E3, 0x00000000000007C0,
+        0x0000000000000F80, 0x0000000000000F00 }, imageWidth), \"\u05E2\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000000FF, 0x00000000000000FF,
+        0x00000000000000F7, 0x00000000000000F7, 0x000000000000007F, 0x000000000000007F,
+        0x000000000000007E, 0x000000000000007E, 0x000000000000007E, 0x000000000000007C,
+        0x000000000000007C, 0x000000000000003C, 0x000000000000007E, 0x000000000000007F,
+        0x00000000000003FF, 0x00000000000003FF }, imageWidth), \"\u05E2\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000000F8, 0x00000000000001F8,
+        0x00000000000001F8, 0x00000000000001F8, 0x00000000000001F8, 0x00000000000001F8,
+        0x00000000000001F8, 0x00000000000001F8, 0x00000000000000F8, 0x0000000000000078,
+        0x000000000000007F, 0x000000000000007F, 0x000000000000007F, 0x0000000000000073,
+        0x00000000000000F0, 0x00000000000000F0 }, imageWidth), \"\u05E2\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000003FC, 0x00000000000003FC,
+        0x00000000000007B8, 0x00000000000007F8, 0x0000000000000F78, 0x0000000000000F70,
+        0x0000000000000F70, 0x00000000000007F0, 0x00000000000007F0, 0x00000000000007E0,
+        0x00000000000007E0, 0x00000000000003F0, 0x00000000000007FC, 0x0000000000000FFF,
+        0x0000000000001F3F, 0x0000000000001E0F }, imageWidth), \"\u05E2\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000007C0, 0x00000000000007E0,
+        0x00000000000007E0, 0x00000000000007E0, 0x00000000000007E0, 0x00000000000003E0,
+        0x00000000000001E0, 0x00000000000001F0, 0x00000000000000F0, 0x00000000000000F8,
+        0x00000000000000FC, 0x00000000000001FF, 0x00000000000003FF, 0x00000000000007CF,
+        0x0000000000000F80, 0x0000000000000F00 }, imageWidth), \"\u05E2\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000000FC, 0x00000000000000FC,
+        0x00000000000000FC, 0x00000000000000F8, 0x00000000000000F8, 0x00000000000000F8,
+        0x00000000000000F8, 0x00000000000000F8, 0x000000000000007C, 0x00000000000000FC,
+        0x00000000000001FE, 0x00000000000007FF, 0x0000000000000FCF, 0x0000000000001F87,
+        0x0000000000003E07, 0x0000000000003C03 }, imageWidth), \"\u05E2\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x000000000000001E, 0x000000000000001E,
+        0x000000000000001E, 0x000000000000000E, 0x000000000000000E, 0x000000000000000F,
+        0x000000000000000F, 0x000000000000000F, 0x000000000000000F, 0x000000000000000F,
+        0x000000000000000F, 0x000000000000000F, 0x000000000000001F, 0x000000000000003F,
+        0x000000000000007F, 0x000000000000007B }, imageWidth), \"\u05E2\" },\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[1].Key
+      value: "\u05D5"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[1].Images
+      value: "{ new ImageGestureImage(new ulong[] { 0x0000000000000003, 0x0000000000000003,
+        0x0000000000000003, 0x0000000000000003, 0x0000000000000003, 0x0000000000000003,
+        0x0000000000000003, 0x0000000000000003, 0x0000000000000003, 0x0000000000000003,
+        0x0000000000000003, 0x0000000000000003, 0x0000000000000007, 0x0000000000000007,
+        0x0000000000000007, 0x0000000000000007 }, imageWidth), \"\u05D5\" },\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[2].Images
+      value: "{ new ImageGestureImage(new ulong[] { 0x00000000000001FF, 0x00000000000003FF,
+        0x00000000000007E0, 0x0000000000000780, 0x0000000000000700, 0x0000000000000700,
+        0x0000000000003FFE, 0x0000000000007FFE, 0x000000000000FFFE, 0x000000000000F3FE,
+        0x000000000000E1FC, 0x000000000000E000, 0x000000000000E0E0, 0x000000000000F1E0,
+        0x000000000000FFE0, 0x000000000000FFC0 }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000003FF, 0x00000000000007FF,
+        0x0000000000000780, 0x0000000000000700, 0x00000000000007F0, 0x0000000000000FF8,
+        0x0000000000000FF8, 0x0000000000000FF8, 0x0000000000000FF8, 0x0000000000000F00,
+        0x0000000000000700, 0x0000000000000700, 0x0000000000000700, 0x0000000000000700,
+        0x00000000000007FF, 0x00000000000007FF }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x000000000000007F, 0x00000000000000FF,
+        0x00000000000000F0, 0x00000000000000F0, 0x00000000000001E0, 0x00000000000001E0,
+        0x00000000000007F8, 0x00000000000007F8, 0x00000000000007F8, 0x00000000000007B8,
+        0x0000000000000380, 0x0000000000000380, 0x0000000000000383, 0x00000000000003C7,
+        0x00000000000003FF, 0x00000000000001FF }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000007FF, 0x00000000000007FF,
+        0x0000000000000F00, 0x0000000000000F00, 0x0000000000000FC0, 0x0000000000000FF0,
+        0x000000000000FFFC, 0x000000000000FFFC, 0x000000000000FFFC, 0x000000000000C01C,
+        0x000000000000C000, 0x000000000000C000, 0x000000000000C00E, 0x000000000000FFFE,
+        0x000000000000FFFE, 0x000000000000FFFC }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000007FF, 0x0000000000000FFF,
+        0x0000000000001F80, 0x0000000000003E00, 0x0000000000003C00, 0x0000000000003E00,
+        0x0000000000003FE0, 0x0000000000003FE0, 0x0000000000003FE0, 0x0000000000003DE0,
+        0x0000000000003C00, 0x0000000000001F00, 0x0000000000001F80, 0x0000000000000FC0,
+        0x00000000000007FF, 0x00000000000001FF }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000001FF, 0x00000000000003FF,
+        0x00000000000007C0, 0x0000000000000780, 0x0000000000000F80, 0x0000000000000F00,
+        0x0000000000001E00, 0x0000000000003E00, 0x0000000000003F00, 0x0000000000007F80,
+        0x000000000000FFC0, 0x000000000000FFC0, 0x000000000000E3C0, 0x000000000000FFFF,
+        0x000000000000FFFF, 0x000000000000FFFF }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000001FF, 0x0000000000001FFF,
+        0x0000000000003FF8, 0x0000000000007F80, 0x000000000000F800, 0x000000000000F000,
+        0x000000000000F800, 0x0000000000007C00, 0x0000000000003E00, 0x0000000000007F00,
+        0x000000000000FF00, 0x000000000000F700, 0x000000000000E000, 0x000000000000C000,
+        0x000000000000FFE0, 0x000000000000FFE0 }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000003FF, 0x00000000000003FF,
+        0x0000000000000380, 0x00000000000003F0, 0x00000000000003FC, 0x00000000000001FF,
+        0x0000000000000FFF, 0x0000000000001FFF, 0x0000000000003FFF, 0x0000000000007C00,
+        0x000000000000F800, 0x000000000000F000, 0x000000000000E000, 0x000000000000E000,
+        0x000000000000FFF0, 0x000000000000FFF0 }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000003FF, 0x00000000000007FF,
+        0x0000000000000FC0, 0x0000000000000F00, 0x0000000000000E00, 0x0000000000000F80,
+        0x0000000000000F80, 0x0000000000000F80, 0x0000000000001E00, 0x0000000000003E00,
+        0x0000000000007C00, 0x0000000000007800, 0x0000000000007000, 0x0000000000007000,
+        0x0000000000007FF0, 0x0000000000007FF0 }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000001FF, 0x00000000000003FF,
+        0x00000000000003E0, 0x0000000000000380, 0x00000000000003C0, 0x00000000000003C0,
+        0x00000000000001C0, 0x00000000000003C0, 0x00000000000007C0, 0x0000000000000FC0,
+        0x0000000000001F00, 0x0000000000003E00, 0x0000000000007CFF, 0x0000000000007FFF,
+        0x0000000000007FFF, 0x0000000000007FC0 }, imageWidth), \"\u05E6\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000000FC, 0x00000000000003FC,
+        0x0000000000000FF0, 0x0000000000003FC0, 0x000000000000FF00, 0x000000000000FC00,
+        0x000000000000F000, 0x000000000000F000, 0x000000000000F800, 0x000000000000FC00,
+        0x0000000000007C00, 0x000000000000FC00, 0x000000000000F000, 0x000000000000FFFF,
+        0x000000000000FFFF, 0x000000000000FFFF }, imageWidth), \"\u05E6\" },\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[2].Key
+      value: "\u05E6"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[3].Images
+      value: "{ new ImageGestureImage(new ulong[] { 0x0000000000000383, 0x00000000000003C3,
+        0x00000000000003C3, 0x00000000000003E7, 0x00000000000007F7, 0x00000000000007FF,
+        0x000000000000077F, 0x0000000000000F3F, 0x0000000000000F1F, 0x0000000000000E1E,
+        0x0000000000000E00, 0x0000000000001E00, 0x0000000000001E00, 0x0000000000001C00,
+        0x0000000000003C00, 0x0000000000003C00 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000003, 0x0000000000001E07,
+        0x0000000000001E07, 0x0000000000001F0F, 0x0000000000001F9F, 0x0000000000003F9E,
+        0x0000000000003FFC, 0x0000000000003BFC, 0x00000000000079F8, 0x00000000000079F8,
+        0x00000000000070F0, 0x000000000000F0E0, 0x000000000000F000, 0x000000000000E000,
+        0x000000000000E000, 0x000000000000E000 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000003, 0x0000000000000003,
+        0x0000000000001E03, 0x0000000000001F03, 0x0000000000001F83, 0x0000000000003FC3,
+        0x0000000000003FE7, 0x00000000000039F7, 0x00000000000078F7, 0x000000000000787F,
+        0x000000000000707F, 0x000000000000F03F, 0x000000000000F01F, 0x000000000000E00F,
+        0x000000000000E00E, 0x000000000000E000 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x000000000000F003, 0x000000000000F803,
+        0x000000000000F807, 0x000000000000FC07, 0x000000000000FC0F, 0x000000000000FE0F,
+        0x000000000000FE1E, 0x000000000000EF1E, 0x000000000000EF9C, 0x000000000000E7BC,
+        0x000000000000E3FC, 0x000000000000E3F8, 0x000000000000E1F8, 0x000000000000E1F0,
+        0x000000000000E0F0, 0x000000000000E0E0 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000F80, 0x0000000000000FC0,
+        0x0000000000000FC3, 0x0000000000001FE3, 0x0000000000001FE3, 0x0000000000001CF3,
+        0x0000000000001CF7, 0x0000000000003C77, 0x0000000000003C7F, 0x000000000000387F,
+        0x000000000000383F, 0x000000000000783E, 0x000000000000781E, 0x000000000000701E,
+        0x000000000000F01C, 0x000000000000F000 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x00000000000003F3, 0x00000000000003F7,
+        0x00000000000007FF, 0x00000000000007FF, 0x000000000000073F, 0x0000000000000F3E,
+        0x0000000000000F1E, 0x0000000000000E1C, 0x0000000000001E00, 0x0000000000001E00,
+        0x0000000000001C00, 0x0000000000003C00, 0x0000000000003C00, 0x0000000000003800,
+        0x0000000000007800, 0x0000000000007800 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000003803, 0x0000000000003C07,
+        0x0000000000003E0F, 0x0000000000003F1F, 0x0000000000007FBE, 0x0000000000007FFC,
+        0x00000000000073F8, 0x00000000000071F0, 0x000000000000F0E0, 0x000000000000F000,
+        0x000000000000E000, 0x000000000000E000, 0x000000000000E000, 0x000000000000E000,
+        0x000000000000C000, 0x0000000000000000 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000003, 0x0000000000000003,
+        0x0000000000000003, 0x00000000000001C7, 0x00000000000001E7, 0x00000000000001F7,
+        0x00000000000001FF, 0x00000000000001FF, 0x00000000000001FF, 0x00000000000001DE,
+        0x00000000000001C0, 0x00000000000001C0, 0x00000000000001C0, 0x00000000000001C0,
+        0x00000000000003C0, 0x00000000000003C0 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000003, 0x0000000000000003,
+        0x0000000000000007, 0x0000000000007007, 0x0000000000007807, 0x0000000000007C0F,
+        0x0000000000007E0F, 0x0000000000007F1E, 0x0000000000007FFE, 0x000000000000F7FC,
+        0x000000000000F3FC, 0x000000000000E038, 0x000000000000E000, 0x000000000000E000,
+        0x000000000000E000, 0x000000000000E000 }, imageWidth), \"\u05DE\" },\r\n{
+        new ImageGestureImage(new ulong[] { 0x0000000000000003, 0x0000000000000003,
+        0x0000000000000E03, 0x0000000000000F07, 0x0000000000000F87, 0x0000000000000FCF,
+        0x0000000000001FFF, 0x0000000000001FFE, 0x0000000000001CFC, 0x0000000000001C00,
+        0x0000000000003C00, 0x0000000000003C00, 0x0000000000003800, 0x0000000000003800,
+        0x0000000000007800, 0x0000000000007800 }, imageWidth), \"\u05DE\" },\r\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureImages.Array.data[3].Key
+      value: "\u05DE"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: MatchText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: GestureStateUpdated.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 8425452957601374756}
+    - target: {fileID: 5976206118876440116, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: AudioSourceOnMatch
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440116, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: MatchParticleSystem
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5976206118876440116, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: ImageScript
+      value: 
+      objectReference: {fileID: 8425452957601374756}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[0]
+      value: 
+      objectReference: {fileID: 8425871318786379580}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[1]
+      value: 
+      objectReference: {fileID: 8425871317996250038}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[2]
+      value: 
+      objectReference: {fileID: 8425871319366206762}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[3]
+      value: 
+      objectReference: {fileID: 8425871318108223496}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[4]
+      value: 
+      objectReference: {fileID: 8425871317295011436}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[5]
+      value: 
+      objectReference: {fileID: 8425871318662730132}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[6]
+      value: 
+      objectReference: {fileID: 8425871317397599032}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[7]
+      value: 
+      objectReference: {fileID: 8425871318041726778}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[8]
+      value: 
+      objectReference: {fileID: 8425871319455933552}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[9]
+      value: 
+      objectReference: {fileID: 8424367378282149632}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[10]
+      value: 
+      objectReference: {fileID: 8425100711340001650}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[11]
+      value: 
+      objectReference: {fileID: 8424253612709608386}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[12]
+      value: 
+      objectReference: {fileID: 8425072191171378894}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[13]
+      value: 
+      objectReference: {fileID: 8425070826279455288}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[14]
+      value: 
+      objectReference: {fileID: 8424252686911562566}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[15]
+      value: 
+      objectReference: {fileID: 8424848309949741250}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[16]
+      value: 
+      objectReference: {fileID: 8424064690204323812}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[17]
+      value: 
+      objectReference: {fileID: 8424084576466216726}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[18]
+      value: 
+      objectReference: {fileID: 8425822466425472290}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[19]
+      value: 
+      objectReference: {fileID: 8424206688066290502}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[20]
+      value: 
+      objectReference: {fileID: 8425043534060945944}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[21]
+      value: 
+      objectReference: {fileID: 8424457409132116050}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[22]
+      value: 
+      objectReference: {fileID: 8424902273481563354}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[23]
+      value: 
+      objectReference: {fileID: 8424907805112346006}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[24]
+      value: 
+      objectReference: {fileID: 8425058148665509342}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[25]
+      value: 
+      objectReference: {fileID: 8424103367519930210}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[26]
+      value: 
+      objectReference: {fileID: 8425932589915742564}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[27]
+      value: 
+      objectReference: {fileID: 8424367013923445116}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[28]
+      value: 
+      objectReference: {fileID: 8425094882097870506}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[29]
+      value: 
+      objectReference: {fileID: 8425097260333220492}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[30]
+      value: 
+      objectReference: {fileID: 8424445220103512716}
+    - target: {fileID: 6015328772098069171, guid: 80606e11afd33c84686408d8bbad3da5,
+        type: 3}
+      propertyPath: TouchCircles.Array.data[31]
+      value: 
+      objectReference: {fileID: 8425871320142144990}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80606e11afd33c84686408d8bbad3da5, type: 3}
+--- !u!1 &8425871318786379580 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206107794590509, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871317996250038 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206108248991655, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871319366206762 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206111173984571, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871318108223496 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206108204334105, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871317295011436 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206109008941693, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871318662730132 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206107842745733, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871317397599032 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206109107959593, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871318041726778 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206108262484779, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871319455933552 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206111151644769, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424367378282149632 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975109442836378385, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425100711340001650 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974446478455901539, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424253612709608386 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974712205816774611, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425072191171378894 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974404904758278879, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425070826279455288 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974405719961210409, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424252686911562566 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974713410720573271, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424848309949741250 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974471276367445203, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8425452957601374756 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5976206118876440117, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4da80168dabad4f4bbdbd21cd0571c58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &8424084576466216726 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974829010954281735, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425822466425472290 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975168373614870835, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424206688066290502 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974671723504863063, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425043534060945944 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974380506137675273, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424457409132116050 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974913858526477379, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424902273481563354 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974522870582384843, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424907805112346006 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974533002630160775, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425058148665509342 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974401634041233871, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424103367519930210 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974845687673635699, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425932589915742564 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975267432211539317, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424367013923445116 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975109248849386861, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425094882097870506 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974434157233369787, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425097260333220492 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974432066693629597, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424445220103512716 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974908180558030493, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8425871320142144990 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5975206110389608911, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8424064690204323812 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5974813437899271157, guid: 80606e11afd33c84686408d8bbad3da5,
+    type: 3}
+  m_PrefabInstance: {fileID: 2738900088288789521}
+  m_PrefabAsset: {fileID: 0}

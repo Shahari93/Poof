@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dragon1
+  - Dragon2
+  - Dragon
+  - Dragon2
+  - Spin
+  - Spin1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackLayer
+    uniqueID: 2111999497
+    locked: 0
+  - name: FrontLayer
+    uniqueID: 828604409
+    locked: 0
+  - name: LettersLayer
+    uniqueID: 3671915929
+    locked: 0
+  - name: UI
+    uniqueID: 1291906935
+    locked: 0
+  - name: FinalScenebg
+    uniqueID: 3950537357
+    locked: 0
+  - name: FinalSceneKnight
+    uniqueID: 495198581
+    locked: 0
+  - name: New Layer
+    uniqueID: 2278019243
+    locked: 0
+  - name: New Layer
+    uniqueID: 1936403085
+    locked: 0

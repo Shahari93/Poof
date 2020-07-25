@@ -1,0 +1,80 @@
+{ "skeleton": { "images": "images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "leg r 2", "bone": "root", "attachment": "leg r 2" },
+	{ "name": "leg r 1", "bone": "root", "attachment": "leg r 1" },
+	{ "name": "leg r foot", "bone": "root", "attachment": "leg r foot" },
+	{ "name": "leg l 2", "bone": "root", "attachment": "leg l 2" },
+	{ "name": "leg l 1", "bone": "root", "attachment": "leg l 1" },
+	{ "name": "leg l foot", "bone": "root", "attachment": "leg l foot" },
+	{ "name": "arm r 1", "bone": "root", "attachment": "arm r 1" },
+	{ "name": "arm r 2", "bone": "root", "attachment": "arm r 2" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "arm l", "bone": "root", "attachment": "arm l" },
+	{ "name": "shield", "bone": "root", "attachment": "shield" },
+	{ "name": "hair", "bone": "root", "attachment": "hair" },
+	{ "name": "face", "bone": "root", "attachment": "face" },
+	{ "name": "eyes", "bone": "root", "attachment": "eyes" },
+	{ "name": "eyes closed", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"shadow": {
+			"shadow": { "x": 135, "y": -306, "width": 128, "height": 40 }
+		},
+		"leg r 2": {
+			"leg r 2": { "x": 158, "y": -285.5, "width": 20, "height": 35 }
+		},
+		"leg r 1": {
+			"leg r 1": { "x": 153, "y": -263, "width": 34, "height": 30 }
+		},
+		"leg r foot": {
+			"leg r foot": { "x": 164, "y": -301, "width": 40, "height": 16 }
+		},
+		"leg l 2": {
+			"leg l 2": { "x": 104, "y": -292.5, "width": 28, "height": 31 }
+		},
+		"leg l 1": {
+			"leg l 1": { "x": 107, "y": -269, "width": 24, "height": 36 }
+		},
+		"leg l foot": {
+			"leg l foot": { "x": 105.5, "y": -306.5, "width": 39, "height": 19 }
+		},
+		"arm r 1": {
+			"arm r 1": { "x": 176.5, "y": -203.5, "width": 39, "height": 35 }
+		},
+		"arm r 2": {
+			"arm r 2": { "x": 207, "y": -213.5, "width": 32, "height": 19 }
+		},
+		"sword": {
+			"sword": { "x": 248, "y": -133.5, "width": 68, "height": 187 }
+		},
+		"body": {
+			"body": { "x": 131, "y": -230.5, "width": 92, "height": 87 }
+		},
+		"arm l": {
+			"arm l": { "x": 83, "y": -215, "width": 40, "height": 38 }
+		},
+		"shield": {
+			"shield": { "x": 49, "y": -241.5, "width": 80, "height": 109 }
+		},
+		"hair": {
+			"hair": { "x": 69, "y": -67.5, "width": 118, "height": 133 }
+		},
+		"face": {
+			"face": { "x": 130.5, "y": -127.5, "width": 153, "height": 153 }
+		},
+		"eyes": {
+			"eyes": { "x": 149, "y": -159.5, "width": 74, "height": 31 }
+		},
+		"eyes closed": {
+			"eyes closed": { "x": 149, "y": -159.5, "width": 74, "height": 31 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
